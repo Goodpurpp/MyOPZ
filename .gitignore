@@ -1,0 +1,14 @@
+#ignored directories
+target
+.idea/
+
+#ignored ide's files
+.idea/*.xml
+*.iml
+*.xml
+
+#ignored MacOs files
+.DS_Store
+
+#ignore anon info
+src/main/resources/application.properties
